@@ -3,7 +3,7 @@ export default class Display extends Component{
     render(){
         return(
         <div>
-            <h1>This is {this.props.name}</h1>
+            <h1>This is revanth {this.props.name}</h1>
         </div>
 
         );
